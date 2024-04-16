@@ -1,0 +1,15 @@
+header {
+background:green;
+color:white;
+border-radius:16px
+}
+
+main {
+border:15px solid green;
+
+}
+
+footer{
+border:15px solid green;
+border-radius:16px
+}

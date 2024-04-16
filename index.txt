@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Заголовок страницы</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header>
+<h1>Личный сайт1</h1>
+<p>Который будет сделан на основе готового шаблона</p>
+<nav>
+<ul>
+<li><a href="index.html">Эта страница</a></li>
+<li><a href="neizvestno.html">Другая страница</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section>
+<h2>Первая секция</h2>
+<p>Она обо мне</p>
+<img src="#" alt="#">
+<p>Но может быть и о семантике, я пока не решил.</p>
+</section>
+<section>
+<h2>Вторая секция</h2>
+<p>Она тоже обо мне</p>
+</section>
+<section>
+<h2>И третья</h2>
+<p>Вы уже должны были начать догадываться.</p>
+</section>
+</main>
+<footer>
+<p>Сюда бы вписать информацию об авторе</p>
+</footer>
+</body>
+</html>
